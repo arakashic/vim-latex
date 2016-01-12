@@ -1014,7 +1014,7 @@ wish.
 The \caption command allows you to title your table.
 
 ==============================================================================
-s. tabular					*tabular*
+s. tabular					*latex-tabular*
 >
 	\begin{tabular}[pos]{cols}
 		column 1 entry & column 2 entry ... & column n entry \\
